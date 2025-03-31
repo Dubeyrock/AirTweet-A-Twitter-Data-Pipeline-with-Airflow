@@ -27,3 +27,15 @@ Cloud Storage: Amazon S3
 Deployment: AWS EC2
 
 API: Twitter API (v2)
+
+## work flow 
+
+![image](https://github.com/user-attachments/assets/99d94ba1-660b-4727-8d3b-bd0563e81477)
+
+
+## ScreenShot 
+
+![image](https://github.com/user-attachments/assets/724c94ff-f553-4fe5-9f80-2c8a9f8cddea)
+
+
+![image](https://github.com/user-attachments/assets/489c7b50-e3f5-43b1-ae89-9b1773abaeef)
