@@ -1,4 +1,4 @@
-## AirTweet is an end-to-end data engineering projec
+## AirTweet is an end-to-end data engineering project
 
 ## Project Overview
 
