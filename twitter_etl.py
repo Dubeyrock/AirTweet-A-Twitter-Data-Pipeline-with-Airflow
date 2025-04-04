@@ -3,7 +3,7 @@ import pandas as pd
 import json
 from datetime import datetime
 import s3fs 
-
+# import numpy as np 
 def run_twitter_etl():
 
     access_key = "" 
